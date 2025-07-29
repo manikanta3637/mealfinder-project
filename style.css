@@ -151,3 +151,22 @@ body {
   font-weight: bold;
   text-transform: uppercase;
 }
+
+.veg-container {
+  max-width: 1000px;
+  margin: 40px auto;
+  background-color: #fff;
+  padding: 25px 30px;
+  border: 1px solid #e2793e;
+  border-radius: 4px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  font-family: 'Montserrat', sans-serif;
+}
+
+.veg-container h1 {
+  color: #e2793e;
+  margin: 0 0 15px;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
